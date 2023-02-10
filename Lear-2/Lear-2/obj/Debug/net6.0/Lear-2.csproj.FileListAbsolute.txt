@@ -1,0 +1,15 @@
+C:\Users\Diana\source\repos\Lear-2\Lear-2\bin\Debug\net6.0\Lear-2.exe
+C:\Users\Diana\source\repos\Lear-2\Lear-2\bin\Debug\net6.0\Lear-2.deps.json
+C:\Users\Diana\source\repos\Lear-2\Lear-2\bin\Debug\net6.0\Lear-2.runtimeconfig.json
+C:\Users\Diana\source\repos\Lear-2\Lear-2\bin\Debug\net6.0\Lear-2.dll
+C:\Users\Diana\source\repos\Lear-2\Lear-2\bin\Debug\net6.0\Lear-2.pdb
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.csproj.AssemblyReference.cache
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.AssemblyInfoInputs.cache
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.AssemblyInfo.cs
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.dll
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\refint\Lear-2.dll
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.pdb
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\Lear-2.genruntimeconfig.cache
+C:\Users\Diana\source\repos\Lear-2\Lear-2\obj\Debug\net6.0\ref\Lear-2.dll
